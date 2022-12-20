@@ -1,0 +1,7 @@
+firstName=Ideja
+lastName=Ferati
+gender=Female
+birthDate=03122003
+userEmail=ideja@gmail.com
+userPassword=P@ssw0rd
+municipality=Prishtinë
